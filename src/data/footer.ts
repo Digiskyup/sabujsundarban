@@ -65,11 +65,11 @@ export const socialMediaLinks: SocialMedia[] = [
 ];
 
 export const footerInfo = {
-  companyName: 'Bablu haldar ',
+  companyName: 'Sanu halder',
   companyUrl: 'https://sabujsundarban.in/',
   tagline: 'Your Travel Partner',
   copyright: `© ${new Date().getFullYear()} Created by<a href="https://sabujsundarban.in/">Sabuj Sundarban</a>. All rights reserved.`,
   address: 'Canning Railway New Market , Canning Town, India, 743329',
   email: 'babluhalder8520@gmail.com',
-  phone: '9614731529 / 9609691144',
+  phone: '+91 87680 93191',
 };

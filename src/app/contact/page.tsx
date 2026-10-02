@@ -166,7 +166,7 @@ export default function ContactPage() {
       (imageUrl ? `📸 *Payment Proof:* ${imageUrl}` : `📸 *Payment Screenshot:* ${formData.paymentScreenshot}\n\n_Note: Payment screenshot will be sent separately_`);
 
     // Get the primary contact number from contact data
-    const whatsappNumber = '917557005878'; // From contactPageContent
+    const whatsappNumber = '918768093191';
     
     // Encode the message for URL
     const encodedMessage = encodeURIComponent(message);
@@ -932,12 +932,8 @@ export default function ContactPage() {
                             }}
                           >
                             <strong style={{ color: '#333' }}>Note:</strong> If you don&apos;t hear back from us within 2 to 3 days, please contact us on{' '}
-                            <a href="tel:+917557005878" style={{ color: '#1976d2', textDecoration: 'none', fontWeight: 600 }}>
-                              +917557005878
-                            </a>
-                            {' / '}
-                            <a href="tel:+919064483605" style={{ color: '#1976d2', textDecoration: 'none', fontWeight: 600 }}>
-                              +919064483605
+                            <a href="tel:+918768093191" style={{ color: '#1976d2', textDecoration: 'none', fontWeight: 600 }}>
+                              +91 87680 93191
                             </a>
                             {' or '}
                             <a href="mailto:babluhalder8520@gmail.com" style={{ color: '#1976d2', textDecoration: 'none', fontWeight: 600 }}>

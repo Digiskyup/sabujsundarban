@@ -162,7 +162,7 @@ const Header: React.FC = () => {
             {/* Phone */}
             <Box
               component="a"
-              href="tel:+919614731529"
+              href="tel:+918768093191"
               sx={{
                 display: 'flex',
                 alignItems: 'center',
@@ -175,7 +175,7 @@ const Header: React.FC = () => {
               }}
             >
               <PhoneIcon sx={{ fontSize: { xs: '1rem', md: '1.25rem' } }} />
-              <span>+91 9614731529</span>
+              <span>+91 87680 93191</span>
             </Box>
           </Box>
         </Container>

@@ -32,7 +32,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       </Box>
       <Footer />
       <FloatingContactButton
-        phoneNumber="+919614731529"
+        phoneNumber="+918768093191"
         whatsappMessage="Hello! I would like to inquire about your Sundarban tour packages."
       />
     </Box>

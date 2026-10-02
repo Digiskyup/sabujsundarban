@@ -60,13 +60,13 @@ export const contactPageContent: ContactPageContent = {
         id: 'phone1',
         type: 'phone',
         label: 'Booking Number',
-        value: '+919614731529',
+        value: '+91 87680 93191',
       },
       {
         id: 'phone2',
         type: 'phone',
         label: 'WhatsApp Number',
-        value: '+919609691144',
+        value: '+91 87680 93191',
       },
       {
         id: 'email',
