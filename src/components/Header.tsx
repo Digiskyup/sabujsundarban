@@ -143,7 +143,7 @@ const Header: React.FC = () => {
             {/* Email */}
             <Box
               component="a"
-              href="mailto:babluhalder8520@gmail.com"
+              href="mailto:haldersanu699@gmail.com"
               sx={{
                 display: 'flex',
                 alignItems: 'center',
@@ -156,7 +156,7 @@ const Header: React.FC = () => {
               }}
             >
               <EmailIcon sx={{ fontSize: { xs: '1rem', md: '1.25rem' } }} />
-              <span>babluhalder8520@gmail.com</span>
+              <span>haldersanu699@gmail.com</span>
             </Box>
 
             {/* Phone */}

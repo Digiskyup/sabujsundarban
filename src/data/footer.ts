@@ -70,6 +70,6 @@ export const footerInfo = {
   tagline: 'Your Travel Partner',
   copyright: `© ${new Date().getFullYear()} Created by<a href="https://sabujsundarban.in/">Sabuj Sundarban</a>. All rights reserved.`,
   address: 'Canning Railway New Market , Canning Town, India, 743329',
-  email: 'babluhalder8520@gmail.com',
+  email: 'haldersanu699@gmail.com',
   phone: '+91 87680 93191',
 };

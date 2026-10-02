@@ -936,8 +936,8 @@ export default function ContactPage() {
                               +91 87680 93191
                             </a>
                             {' or '}
-                            <a href="mailto:babluhalder8520@gmail.com" style={{ color: '#1976d2', textDecoration: 'none', fontWeight: 600 }}>
-                              babluhalder8520@gmail.com
+                            <a href="mailto:haldersanu699@gmail.com" style={{ color: '#1976d2', textDecoration: 'none', fontWeight: 600 }}>
+                              haldersanu699@gmail.com
                             </a>
                           </Typography>
                         </Box>

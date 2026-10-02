@@ -72,7 +72,7 @@ export const contactPageContent: ContactPageContent = {
         id: 'email',
         type: 'email',
         label: 'Email Us',
-        value: 'babluhalder8520@gmail.com',
+        value: 'haldersanu699@gmail.com',
       },
     ],
   },
