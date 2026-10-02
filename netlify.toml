@@ -13,3 +13,9 @@
 
 [context.deploy-preview]
   command = "npm run build"
+
+[[redirects]]
+  from = "/.netlify/scripts/hud*"
+  to = "/404"
+  status = 404
+  force = true
